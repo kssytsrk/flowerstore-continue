@@ -8,4 +8,6 @@ import lombok.Setter;
 public abstract class Item {
     private String name;
     private double price;
+    @Getter
+    protected String description;
 }

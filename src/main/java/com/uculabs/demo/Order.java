@@ -1,7 +1,6 @@
 package com.uculabs.demo;
 
 import com.uculabs.demo.delivery.Delivery;
-import com.uculabs.demo.payment.CreditCardPaymentStrategy;
 import com.uculabs.demo.payment.Payment;
 import lombok.Getter;
 import lombok.Setter;
